@@ -9,4 +9,4 @@ WORKDIR /usr/src/app
 
 COPY . .
 
-CMD [ "python", "day_02.py" ]
+CMD [ "python", "day_05.py" ]
