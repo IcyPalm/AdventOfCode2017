@@ -29,3 +29,5 @@ while not same:
         previous_banks.append(list(bank))
 
 print(counter)
+# Part 2:
+print(len(previous_banks)-previous_banks.index(bank))
